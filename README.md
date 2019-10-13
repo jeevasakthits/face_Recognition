@@ -6,7 +6,10 @@ And the generated graph was saved as “frozen_inference_graph.pb” along with 
 To run and test the model please use google colab link in the file name
 #“Tensorflow_Face_Recognition.ipynb” 
 <br>
-<br>
+<br><br>
+
+#Loss Function
+<br><br>
 <br>
 Follow this steps to run this file:<br>
 1.Open this file using google colab as mentioned above.<br>
