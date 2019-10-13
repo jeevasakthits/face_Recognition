@@ -9,6 +9,8 @@ To run and test the model please use google colab link in the file name
 <br><br>
 
 #Loss Function
+Lloc is the localization loss which is the smooth L1 loss between the predicted box (l) and the ground-truth box (g) parameters. These parameters include the offsets for the center point (cx, cy), width (w) and height (h) of the bounding box. This loss is similar to the one in Faster R-CNN
+
 <br><br>
 <br>
 Follow this steps to run this file:<br>
